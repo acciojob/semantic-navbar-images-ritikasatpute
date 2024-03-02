@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+.navbar{
+	padding:30px;
+	background-color:black;
+	
+}
+a{
+	
+	color:white;
+	text-decoration:none;
+	padding-inline:20px;
+	align-text:left;
+}
+li{
+	list-style-type:none;
+}
